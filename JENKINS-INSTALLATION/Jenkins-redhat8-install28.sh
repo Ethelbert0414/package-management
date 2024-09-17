@@ -25,4 +25,4 @@ sudo systemctl status jenkins
 sudo su - ec2-user
 # Install git so Jenkins can communicate with git
 sudo yum install git
-echo "echo of jenkins installation"
+echo "end of jenkins installation"
